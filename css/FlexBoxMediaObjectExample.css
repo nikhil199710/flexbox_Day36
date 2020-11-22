@@ -1,0 +1,16 @@
+.media {
+    display: flex;
+    align-items: flex-start;
+    background: #e2dae2;
+    padding: 1em;
+    border-radius: 3px;
+    max-width: 100em;
+  }
+.media-objectjio{
+  margin-right: 1em;
+  width: 300px;
+}
+.media-objectairtel{
+  margin-right: 1em;
+  width: 200px;
+}
